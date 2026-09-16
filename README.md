@@ -14,6 +14,7 @@ leetCodeQuestions
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/abhishekharshit928/LeetCode-/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/abhishekharshit928/LeetCode-/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abhishekharshit928/LeetCode-/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/abhishekharshit928/LeetCode-/tree/main/0450-delete-node-in-a-bst/) | Medium |
@@ -22,11 +23,13 @@ leetCodeQuestions
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/abhishekharshit928/LeetCode-/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/abhishekharshit928/LeetCode-/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abhishekharshit928/LeetCode-/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/abhishekharshit928/LeetCode-/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/abhishekharshit928/LeetCode-/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abhishekharshit928/LeetCode-/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/abhishekharshit928/LeetCode-/tree/main/0450-delete-node-in-a-bst/) | Medium |
@@ -35,6 +38,7 @@ leetCodeQuestions
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/abhishekharshit928/LeetCode-/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abhishekharshit928/LeetCode-/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/abhishekharshit928/LeetCode-/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/abhishekharshit928/LeetCode-/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
