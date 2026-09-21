@@ -111,4 +111,8 @@ leetCodeQuestions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/abhishekharshit928/LeetCode-/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0009-palindrome-number](https://github.com/abhishekharshit928/LeetCode-/tree/main/0009-palindrome-number/) | Easy |
 <!---LeetCode Topics End-->
