@@ -78,6 +78,7 @@ leetCodeQuestions
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/abhishekharshit928/LeetCode-/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/abhishekharshit928/LeetCode-/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -106,6 +107,7 @@ leetCodeQuestions
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/abhishekharshit928/LeetCode-/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/abhishekharshit928/LeetCode-/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## DP on Trees
 | Problem Name | Difficulty |
@@ -115,4 +117,8 @@ leetCodeQuestions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/abhishekharshit928/LeetCode-/tree/main/0009-palindrome-number/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/abhishekharshit928/LeetCode-/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 <!---LeetCode Topics End-->
