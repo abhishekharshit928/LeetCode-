@@ -1,24 +1,26 @@
 class Solution {
+
+    int[] delrow = {-1, 1, 0, 0};
+    int[] delcol = {0, 0, -1, 1};
+
     private void traversal(int i, int j, boolean[][] vis, int[][] grid) {
+
         vis[i][j] = true;
 
         int n = grid.length;
         int m = grid[0].length;
 
-        if (i > 0 && !vis[i-1][j] && grid[i-1][j] == 1) {
-            traversal(i-1, j, vis, grid); // up
-        }
+        for (int k = 0; k < 4; k++) {
 
-        if (i < n-1 && !vis[i+1][j] && grid[i+1][j] == 1) {
-            traversal(i+1, j, vis, grid); // down
-        }
+            int nrow = i + delrow[k];
+            int ncol = j + delcol[k];
 
-        if (j > 0 && !vis[i][j-1] && grid[i][j-1] == 1) {
-            traversal(i, j-1, vis, grid); // left
-        }
+            if (nrow >= 0 && nrow < n &&
+                ncol >= 0 && ncol < m &&
+                !vis[nrow][ncol] && grid[nrow][ncol] == 1) {
 
-        if (j < m-1 && !vis[i][j+1] && grid[i][j+1] == 1) {
-            traversal(i, j+1, vis, grid); // right
+                traversal(nrow, ncol, vis, grid);
+            }
         }
     }
 
