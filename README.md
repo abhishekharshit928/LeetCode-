@@ -125,6 +125,7 @@ leetCodeQuestions
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/abhishekharshit928/LeetCode-/tree/main/0022-generate-parentheses/) | Medium |
 | [0542-01-matrix](https://github.com/abhishekharshit928/LeetCode-/tree/main/0542-01-matrix/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/abhishekharshit928/LeetCode-/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/abhishekharshit928/LeetCode-/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
@@ -168,4 +169,16 @@ leetCodeQuestions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0785-is-graph-bipartite](https://github.com/abhishekharshit928/LeetCode-/tree/main/0785-is-graph-bipartite/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/abhishekharshit928/LeetCode-/tree/main/0022-generate-parentheses/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/abhishekharshit928/LeetCode-/tree/main/0022-generate-parentheses/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/abhishekharshit928/LeetCode-/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
