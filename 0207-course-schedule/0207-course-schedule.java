@@ -1,4 +1,5 @@
 class Solution {
+    // using DFS
     // private boolean dfs(int node , boolean[] vis , boolean pathVis[] , List<List<Integer>> adj){
     //     vis[node] = true;
     //     pathVis[node] = true;
@@ -40,7 +41,7 @@ class Solution {
          
     // }
 
-
+           // using kahn's algorithm(BFS)
      public boolean canFinish(int numCourses, int[][] prerequisites) {
         List<List<Integer>> graph = new ArrayList<>();
 
