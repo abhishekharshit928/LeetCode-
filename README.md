@@ -84,6 +84,7 @@ leetCodeQuestions
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/abhishekharshit928/LeetCode-/tree/main/0001-two-sum/) | Easy |
 | [0130-surrounded-regions](https://github.com/abhishekharshit928/LeetCode-/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/abhishekharshit928/LeetCode-/tree/main/0200-number-of-islands/) | Medium |
 | [0542-01-matrix](https://github.com/abhishekharshit928/LeetCode-/tree/main/0542-01-matrix/) | Medium |
@@ -107,6 +108,7 @@ leetCodeQuestions
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/abhishekharshit928/LeetCode-/tree/main/0001-two-sum/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/abhishekharshit928/LeetCode-/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
