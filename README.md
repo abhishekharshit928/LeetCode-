@@ -6,6 +6,7 @@ leetCodeQuestions
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/abhishekharshit928/LeetCode-/tree/main/0002-add-two-numbers/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/abhishekharshit928/LeetCode-/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -140,6 +141,7 @@ leetCodeQuestions
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/abhishekharshit928/LeetCode-/tree/main/0002-add-two-numbers/) | Medium |
 | [0009-palindrome-number](https://github.com/abhishekharshit928/LeetCode-/tree/main/0009-palindrome-number/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -194,4 +196,8 @@ leetCodeQuestions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/abhishekharshit928/LeetCode-/tree/main/0207-course-schedule/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/abhishekharshit928/LeetCode-/tree/main/0002-add-two-numbers/) | Medium |
 <!---LeetCode Topics End-->
