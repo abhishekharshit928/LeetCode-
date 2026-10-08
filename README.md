@@ -14,6 +14,7 @@ leetCodeQuestions
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/abhishekharshit928/LeetCode-/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/abhishekharshit928/LeetCode-/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/abhishekharshit928/LeetCode-/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/abhishekharshit928/LeetCode-/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -180,6 +181,7 @@ leetCodeQuestions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/abhishekharshit928/LeetCode-/tree/main/0022-generate-parentheses/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/abhishekharshit928/LeetCode-/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -188,6 +190,7 @@ leetCodeQuestions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/abhishekharshit928/LeetCode-/tree/main/0022-generate-parentheses/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/abhishekharshit928/LeetCode-/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
