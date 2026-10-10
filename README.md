@@ -75,6 +75,7 @@ leetCodeQuestions
 | [0701-insert-into-a-binary-search-tree](https://github.com/abhishekharshit928/LeetCode-/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/abhishekharshit928/LeetCode-/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/abhishekharshit928/LeetCode-/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
+| [2333-minimum-sum-of-squared-difference](https://github.com/abhishekharshit928/LeetCode-/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Binary Lifting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -95,6 +96,7 @@ leetCodeQuestions
 | [0994-rotting-oranges](https://github.com/abhishekharshit928/LeetCode-/tree/main/0994-rotting-oranges/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/abhishekharshit928/LeetCode-/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1020-number-of-enclaves](https://github.com/abhishekharshit928/LeetCode-/tree/main/1020-number-of-enclaves/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/abhishekharshit928/LeetCode-/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -148,6 +150,7 @@ leetCodeQuestions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/abhishekharshit928/LeetCode-/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/abhishekharshit928/LeetCode-/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -203,4 +206,12 @@ leetCodeQuestions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/abhishekharshit928/LeetCode-/tree/main/0002-add-two-numbers/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/abhishekharshit928/LeetCode-/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/abhishekharshit928/LeetCode-/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 <!---LeetCode Topics End-->
