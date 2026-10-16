@@ -114,6 +114,7 @@ leetCodeQuestions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/abhishekharshit928/LeetCode-/tree/main/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/abhishekharshit928/LeetCode-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/abhishekharshit928/LeetCode-/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -184,6 +185,7 @@ leetCodeQuestions
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/abhishekharshit928/LeetCode-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0022-generate-parentheses](https://github.com/abhishekharshit928/LeetCode-/tree/main/0022-generate-parentheses/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/abhishekharshit928/LeetCode-/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Backtracking
@@ -219,4 +221,8 @@ leetCodeQuestions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/abhishekharshit928/LeetCode-/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/abhishekharshit928/LeetCode-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->
