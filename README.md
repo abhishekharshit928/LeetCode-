@@ -39,6 +39,7 @@ leetCodeQuestions
 | [0130-surrounded-regions](https://github.com/abhishekharshit928/LeetCode-/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/abhishekharshit928/LeetCode-/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/abhishekharshit928/LeetCode-/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/abhishekharshit928/LeetCode-/tree/main/0210-course-schedule-ii/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abhishekharshit928/LeetCode-/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhishekharshit928/LeetCode-/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/abhishekharshit928/LeetCode-/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
@@ -126,6 +127,7 @@ leetCodeQuestions
 | [0130-surrounded-regions](https://github.com/abhishekharshit928/LeetCode-/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/abhishekharshit928/LeetCode-/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/abhishekharshit928/LeetCode-/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/abhishekharshit928/LeetCode-/tree/main/0210-course-schedule-ii/) | Medium |
 | [0542-01-matrix](https://github.com/abhishekharshit928/LeetCode-/tree/main/0542-01-matrix/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/abhishekharshit928/LeetCode-/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0733-flood-fill](https://github.com/abhishekharshit928/LeetCode-/tree/main/0733-flood-fill/) | Easy |
@@ -173,6 +175,7 @@ leetCodeQuestions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/abhishekharshit928/LeetCode-/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/abhishekharshit928/LeetCode-/tree/main/0210-course-schedule-ii/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/abhishekharshit928/LeetCode-/tree/main/0785-is-graph-bipartite/) | Medium |
 ## Graph Coloring
 | Problem Name | Difficulty |
@@ -201,6 +204,7 @@ leetCodeQuestions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/abhishekharshit928/LeetCode-/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/abhishekharshit928/LeetCode-/tree/main/0210-course-schedule-ii/) | Medium |
 ## Directed Acyclic Graph
 | Problem Name | Difficulty |
 | ------- | ------- |
