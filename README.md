@@ -117,6 +117,7 @@ leetCodeQuestions
 | ------- | ------- |
 | [0001-two-sum](https://github.com/abhishekharshit928/LeetCode-/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhishekharshit928/LeetCode-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0126-word-ladder-ii](https://github.com/abhishekharshit928/LeetCode-/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/abhishekharshit928/LeetCode-/tree/main/0127-word-ladder/) | Hard |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/abhishekharshit928/LeetCode-/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## Two Pointers
@@ -126,6 +127,7 @@ leetCodeQuestions
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0126-word-ladder-ii](https://github.com/abhishekharshit928/LeetCode-/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/abhishekharshit928/LeetCode-/tree/main/0127-word-ladder/) | Hard |
 | [0130-surrounded-regions](https://github.com/abhishekharshit928/LeetCode-/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/abhishekharshit928/LeetCode-/tree/main/0200-number-of-islands/) | Medium |
@@ -195,12 +197,14 @@ leetCodeQuestions
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhishekharshit928/LeetCode-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0022-generate-parentheses](https://github.com/abhishekharshit928/LeetCode-/tree/main/0022-generate-parentheses/) | Medium |
+| [0126-word-ladder-ii](https://github.com/abhishekharshit928/LeetCode-/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/abhishekharshit928/LeetCode-/tree/main/0127-word-ladder/) | Hard |
 | [1021-remove-outermost-parentheses](https://github.com/abhishekharshit928/LeetCode-/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/abhishekharshit928/LeetCode-/tree/main/0022-generate-parentheses/) | Medium |
+| [0126-word-ladder-ii](https://github.com/abhishekharshit928/LeetCode-/tree/main/0126-word-ladder-ii/) | Hard |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -247,5 +251,6 @@ leetCodeQuestions
 ## Bidirectional Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0126-word-ladder-ii](https://github.com/abhishekharshit928/LeetCode-/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/abhishekharshit928/LeetCode-/tree/main/0127-word-ladder/) | Hard |
 <!---LeetCode Topics End-->
