@@ -23,8 +23,6 @@ class Solution {
         visited.add(beginWord);
 
         boolean found = false;
-
-        // BFS: Build parent relationships
         while (!q.isEmpty() && !found) {
 
             int size = q.size();
@@ -66,14 +64,11 @@ class Solution {
                 }
             }
 
-            // Add newly discovered words after the whole level
             for (String word : usedOnLevel) {
                 visited.add(word);
                 q.offer(word);
             }
         }
-
-        // DFS: Reconstruct all shortest paths
         if (found) {
             List<String> path = new ArrayList<>();
             path.add(endWord);
