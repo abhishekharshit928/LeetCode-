@@ -98,6 +98,7 @@ leetCodeQuestions
 | [0994-rotting-oranges](https://github.com/abhishekharshit928/LeetCode-/tree/main/0994-rotting-oranges/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/abhishekharshit928/LeetCode-/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1020-number-of-enclaves](https://github.com/abhishekharshit928/LeetCode-/tree/main/1020-number-of-enclaves/) | Medium |
+| [1091-shortest-path-in-binary-matrix](https://github.com/abhishekharshit928/LeetCode-/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/abhishekharshit928/LeetCode-/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/abhishekharshit928/LeetCode-/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 ## Monotonic Stack
@@ -140,6 +141,7 @@ leetCodeQuestions
 | [0802-find-eventual-safe-states](https://github.com/abhishekharshit928/LeetCode-/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0994-rotting-oranges](https://github.com/abhishekharshit928/LeetCode-/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/abhishekharshit928/LeetCode-/tree/main/1020-number-of-enclaves/) | Medium |
+| [1091-shortest-path-in-binary-matrix](https://github.com/abhishekharshit928/LeetCode-/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -177,6 +179,7 @@ leetCodeQuestions
 | [0733-flood-fill](https://github.com/abhishekharshit928/LeetCode-/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/abhishekharshit928/LeetCode-/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/abhishekharshit928/LeetCode-/tree/main/1020-number-of-enclaves/) | Medium |
+| [1091-shortest-path-in-binary-matrix](https://github.com/abhishekharshit928/LeetCode-/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
