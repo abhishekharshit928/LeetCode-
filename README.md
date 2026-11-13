@@ -15,6 +15,7 @@ leetCodeQuestions
 | [0173-binary-search-tree-iterator](https://github.com/abhishekharshit928/LeetCode-/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/abhishekharshit928/LeetCode-/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/abhishekharshit928/LeetCode-/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/abhishekharshit928/LeetCode-/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -106,10 +107,12 @@ leetCodeQuestions
 | [2333-minimum-sum-of-squared-difference](https://github.com/abhishekharshit928/LeetCode-/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/abhishekharshit928/LeetCode-/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/abhishekharshit928/LeetCode-/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/abhishekharshit928/LeetCode-/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/abhishekharshit928/LeetCode-/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/abhishekharshit928/LeetCode-/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -256,6 +259,7 @@ leetCodeQuestions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhishekharshit928/LeetCode-/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/abhishekharshit928/LeetCode-/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Kosaraju's Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -277,4 +281,16 @@ leetCodeQuestions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/abhishekharshit928/LeetCode-/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/abhishekharshit928/LeetCode-/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/abhishekharshit928/LeetCode-/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/abhishekharshit928/LeetCode-/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 <!---LeetCode Topics End-->
