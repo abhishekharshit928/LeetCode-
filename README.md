@@ -45,6 +45,7 @@ leetCodeQuestions
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/abhishekharshit928/LeetCode-/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0733-flood-fill](https://github.com/abhishekharshit928/LeetCode-/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/abhishekharshit928/LeetCode-/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/abhishekharshit928/LeetCode-/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/abhishekharshit928/LeetCode-/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [1020-number-of-enclaves](https://github.com/abhishekharshit928/LeetCode-/tree/main/1020-number-of-enclaves/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/abhishekharshit928/LeetCode-/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
@@ -142,6 +143,7 @@ leetCodeQuestions
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/abhishekharshit928/LeetCode-/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0733-flood-fill](https://github.com/abhishekharshit928/LeetCode-/tree/main/0733-flood-fill/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/abhishekharshit928/LeetCode-/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/abhishekharshit928/LeetCode-/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/abhishekharshit928/LeetCode-/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0994-rotting-oranges](https://github.com/abhishekharshit928/LeetCode-/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/abhishekharshit928/LeetCode-/tree/main/1020-number-of-enclaves/) | Medium |
@@ -153,6 +155,7 @@ leetCodeQuestions
 | [0022-generate-parentheses](https://github.com/abhishekharshit928/LeetCode-/tree/main/0022-generate-parentheses/) | Medium |
 | [0542-01-matrix](https://github.com/abhishekharshit928/LeetCode-/tree/main/0542-01-matrix/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/abhishekharshit928/LeetCode-/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/abhishekharshit928/LeetCode-/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/abhishekharshit928/LeetCode-/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## DP on Trees
 | Problem Name | Difficulty |
@@ -193,6 +196,7 @@ leetCodeQuestions
 | [0207-course-schedule](https://github.com/abhishekharshit928/LeetCode-/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/abhishekharshit928/LeetCode-/tree/main/0210-course-schedule-ii/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/abhishekharshit928/LeetCode-/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/abhishekharshit928/LeetCode-/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/abhishekharshit928/LeetCode-/tree/main/0802-find-eventual-safe-states/) | Medium |
 ## Graph Coloring
 | Problem Name | Difficulty |
@@ -241,6 +245,7 @@ leetCodeQuestions
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/abhishekharshit928/LeetCode-/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/abhishekharshit928/LeetCode-/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/abhishekharshit928/LeetCode-/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Enumeration
@@ -268,4 +273,8 @@ leetCodeQuestions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1631-path-with-minimum-effort](https://github.com/abhishekharshit928/LeetCode-/tree/main/1631-path-with-minimum-effort/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/abhishekharshit928/LeetCode-/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 <!---LeetCode Topics End-->
