@@ -159,6 +159,7 @@ leetCodeQuestions
 | [0542-01-matrix](https://github.com/abhishekharshit928/LeetCode-/tree/main/0542-01-matrix/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/abhishekharshit928/LeetCode-/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/abhishekharshit928/LeetCode-/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/abhishekharshit928/LeetCode-/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/abhishekharshit928/LeetCode-/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/abhishekharshit928/LeetCode-/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## DP on Trees
@@ -202,6 +203,7 @@ leetCodeQuestions
 | [0785-is-graph-bipartite](https://github.com/abhishekharshit928/LeetCode-/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/abhishekharshit928/LeetCode-/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/abhishekharshit928/LeetCode-/tree/main/0802-find-eventual-safe-states/) | Medium |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/abhishekharshit928/LeetCode-/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/abhishekharshit928/LeetCode-/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Graph Coloring
 | Problem Name | Difficulty |
@@ -279,12 +281,14 @@ leetCodeQuestions
 ## Dijkstra's Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/abhishekharshit928/LeetCode-/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/abhishekharshit928/LeetCode-/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/abhishekharshit928/LeetCode-/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/abhishekharshit928/LeetCode-/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/abhishekharshit928/LeetCode-/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/abhishekharshit928/LeetCode-/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Segment Tree
 | Problem Name | Difficulty |
@@ -298,4 +302,12 @@ leetCodeQuestions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/abhishekharshit928/LeetCode-/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
+## Bellman–Ford Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/abhishekharshit928/LeetCode-/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
+## Floyd–Warshall Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/abhishekharshit928/LeetCode-/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 <!---LeetCode Topics End-->
