@@ -45,6 +45,7 @@ leetCodeQuestions
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhishekharshit928/LeetCode-/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/abhishekharshit928/LeetCode-/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0733-flood-fill](https://github.com/abhishekharshit928/LeetCode-/tree/main/0733-flood-fill/) | Easy |
+| [0743-network-delay-time](https://github.com/abhishekharshit928/LeetCode-/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/abhishekharshit928/LeetCode-/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/abhishekharshit928/LeetCode-/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/abhishekharshit928/LeetCode-/tree/main/0802-find-eventual-safe-states/) | Medium |
@@ -145,6 +146,7 @@ leetCodeQuestions
 | [0542-01-matrix](https://github.com/abhishekharshit928/LeetCode-/tree/main/0542-01-matrix/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/abhishekharshit928/LeetCode-/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0733-flood-fill](https://github.com/abhishekharshit928/LeetCode-/tree/main/0733-flood-fill/) | Easy |
+| [0743-network-delay-time](https://github.com/abhishekharshit928/LeetCode-/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/abhishekharshit928/LeetCode-/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/abhishekharshit928/LeetCode-/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/abhishekharshit928/LeetCode-/tree/main/0802-find-eventual-safe-states/) | Medium |
@@ -200,6 +202,7 @@ leetCodeQuestions
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/abhishekharshit928/LeetCode-/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/abhishekharshit928/LeetCode-/tree/main/0210-course-schedule-ii/) | Medium |
+| [0743-network-delay-time](https://github.com/abhishekharshit928/LeetCode-/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/abhishekharshit928/LeetCode-/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/abhishekharshit928/LeetCode-/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/abhishekharshit928/LeetCode-/tree/main/0802-find-eventual-safe-states/) | Medium |
@@ -253,6 +256,7 @@ leetCodeQuestions
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0743-network-delay-time](https://github.com/abhishekharshit928/LeetCode-/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/abhishekharshit928/LeetCode-/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/abhishekharshit928/LeetCode-/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/abhishekharshit928/LeetCode-/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
@@ -281,12 +285,14 @@ leetCodeQuestions
 ## Dijkstra's Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0743-network-delay-time](https://github.com/abhishekharshit928/LeetCode-/tree/main/0743-network-delay-time/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/abhishekharshit928/LeetCode-/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/abhishekharshit928/LeetCode-/tree/main/1631-path-with-minimum-effort/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/abhishekharshit928/LeetCode-/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0743-network-delay-time](https://github.com/abhishekharshit928/LeetCode-/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/abhishekharshit928/LeetCode-/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/abhishekharshit928/LeetCode-/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/abhishekharshit928/LeetCode-/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
