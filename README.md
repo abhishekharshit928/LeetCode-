@@ -44,6 +44,7 @@ leetCodeQuestions
 | [0230-kth-smallest-element-in-a-bst](https://github.com/abhishekharshit928/LeetCode-/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhishekharshit928/LeetCode-/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/abhishekharshit928/LeetCode-/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0721-accounts-merge](https://github.com/abhishekharshit928/LeetCode-/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/abhishekharshit928/LeetCode-/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/abhishekharshit928/LeetCode-/tree/main/0743-network-delay-time/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/abhishekharshit928/LeetCode-/tree/main/0778-swim-in-rising-water/) | Hard |
@@ -102,6 +103,7 @@ leetCodeQuestions
 | [0200-number-of-islands](https://github.com/abhishekharshit928/LeetCode-/tree/main/0200-number-of-islands/) | Medium |
 | [0542-01-matrix](https://github.com/abhishekharshit928/LeetCode-/tree/main/0542-01-matrix/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/abhishekharshit928/LeetCode-/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
+| [0721-accounts-merge](https://github.com/abhishekharshit928/LeetCode-/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/abhishekharshit928/LeetCode-/tree/main/0733-flood-fill/) | Easy |
 | [0778-swim-in-rising-water](https://github.com/abhishekharshit928/LeetCode-/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0994-rotting-oranges](https://github.com/abhishekharshit928/LeetCode-/tree/main/0994-rotting-oranges/) | Medium |
@@ -134,6 +136,7 @@ leetCodeQuestions
 | [0126-word-ladder-ii](https://github.com/abhishekharshit928/LeetCode-/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/abhishekharshit928/LeetCode-/tree/main/0127-word-ladder/) | Hard |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/abhishekharshit928/LeetCode-/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0721-accounts-merge](https://github.com/abhishekharshit928/LeetCode-/tree/main/0721-accounts-merge/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -149,6 +152,7 @@ leetCodeQuestions
 | [0210-course-schedule-ii](https://github.com/abhishekharshit928/LeetCode-/tree/main/0210-course-schedule-ii/) | Medium |
 | [0542-01-matrix](https://github.com/abhishekharshit928/LeetCode-/tree/main/0542-01-matrix/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/abhishekharshit928/LeetCode-/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0721-accounts-merge](https://github.com/abhishekharshit928/LeetCode-/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/abhishekharshit928/LeetCode-/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/abhishekharshit928/LeetCode-/tree/main/0743-network-delay-time/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/abhishekharshit928/LeetCode-/tree/main/0778-swim-in-rising-water/) | Hard |
@@ -189,6 +193,7 @@ leetCodeQuestions
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/abhishekharshit928/LeetCode-/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/abhishekharshit928/LeetCode-/tree/main/0200-number-of-islands/) | Medium |
+| [0721-accounts-merge](https://github.com/abhishekharshit928/LeetCode-/tree/main/0721-accounts-merge/) | Medium |
 | [0778-swim-in-rising-water](https://github.com/abhishekharshit928/LeetCode-/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0785-is-graph-bipartite](https://github.com/abhishekharshit928/LeetCode-/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1020-number-of-enclaves](https://github.com/abhishekharshit928/LeetCode-/tree/main/1020-number-of-enclaves/) | Medium |
@@ -233,6 +238,7 @@ leetCodeQuestions
 | [0022-generate-parentheses](https://github.com/abhishekharshit928/LeetCode-/tree/main/0022-generate-parentheses/) | Medium |
 | [0126-word-ladder-ii](https://github.com/abhishekharshit928/LeetCode-/tree/main/0126-word-ladder-ii/) | Hard |
 | [0127-word-ladder](https://github.com/abhishekharshit928/LeetCode-/tree/main/0127-word-ladder/) | Hard |
+| [0721-accounts-merge](https://github.com/abhishekharshit928/LeetCode-/tree/main/0721-accounts-merge/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/abhishekharshit928/LeetCode-/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -262,6 +268,7 @@ leetCodeQuestions
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0721-accounts-merge](https://github.com/abhishekharshit928/LeetCode-/tree/main/0721-accounts-merge/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/abhishekharshit928/LeetCode-/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
