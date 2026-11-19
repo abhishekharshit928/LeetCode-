@@ -1,122 +1,99 @@
 class MyDSU {
-    List<Integer> rank = new ArrayList<>();
-    List<Integer> parent = new ArrayList<>();
-    List<Integer> size = new ArrayList<>();
+    int parent[];
+    int rank[];
 
     public MyDSU(int n) {
+        parent = new int[n];
+        rank = new int[n];
 
-        for(int i = 0 ; i <= n ; i++){
-            size.add(1);
-            rank.add(0);
-            parent.add(i);
+        for(int i = 0; i < n; i++) {
+            parent[i] = i;
+            rank[i] = 0;
         }
     }
-    public int find(int x) {
-        if(x == parent.get(x)) return x;
-        
-        int ulp = find(parent.get(x));
-        parent.set(x, ulp);
-        return parent.get(x);
-    }
- 
-    public void unionSetByRank(int x, int y) {
-        int ulp_u = find(x);
-        int ulp_v = find(y);
-        
-        if(ulp_u == ulp_v) return;
-        
-        if(rank.get(ulp_u) < rank.get(ulp_v)){
-            parent.set(ulp_u , ulp_v);
+
+    public int find(int u) {
+        if(u == parent[u]) {
+            return u;
         }
-        else if(rank.get(ulp_v) < rank.get(ulp_u)){
-            parent.set(ulp_v , ulp_u);
-        }
-        
-        else {
-                parent.set(ulp_u, ulp_v);
-                rank.set(ulp_v, rank.get(ulp_v) + 1);
-            }
-            
-       
+
+        return parent[u] = find(parent[u]);
     }
 
-    public void unionSetBySize(int x, int y) {
-        int ulp_u = find(x);
-        int ulp_v = find(y);
+    public void unionSetBySize(int u, int v) {
+        int pv = find(v);
+        int pu = find(u);
 
-        if(ulp_u == ulp_v) return;
-
-        if(size.get(ulp_u) < size.get(ulp_v)) {
-            parent.set(ulp_u, ulp_v);
-            size.set(ulp_v, size.get(ulp_v) + size.get(ulp_u));
+        if(rank[pv] > rank[pu]) {
+            parent[pu] = pv;
+        }
+        else if(rank[pu] > rank[pv]) {
+            parent[pv] = pu;
         }
         else {
-            parent.set(ulp_v, ulp_u);
-            size.set(ulp_u, size.get(ulp_u) + size.get(ulp_v));
+            parent[pv] = pu;
+            rank[pu]++;
         }
     }
-};
+}
+
 class Solution {
     public List<List<String>> accountsMerge(List<List<String>> accounts) {
+
         int n = accounts.size();
+
         MyDSU dsu = new MyDSU(n);
         Map<String, Integer> map = new HashMap<>();
 
-for(int i = 0; i < n; i++) {
-    for(int j = 1; j < accounts.get(i).size(); j++) {
+        for(int i = 0; i < n; i++) {
+            for(int j = 1; j < accounts.get(i).size(); j++) {
 
-        String email = accounts.get(i).get(j);
+                String email = accounts.get(i).get(j);
 
-        if(!map.containsKey(email)) {
-            map.put(email, i);
+                if(!map.containsKey(email)) {
+                    map.put(email, i);
+                }
+                else {
+                    int prevIdx = map.get(email);
+
+                    dsu.unionSetBySize(i, prevIdx);
+                }
+            }
         }
-        else {
-            int prevIdx = map.get(email);
 
-            dsu.unionSetBySize(i, prevIdx);
-        }
-    }
-} 
         List<List<String>> mergedMail = new ArrayList<>();
 
-for(int i = 0; i < n; i++) {
-    mergedMail.add(new ArrayList<>());
-}
-       
-       for(String email : map.keySet()) {
-           int index = dsu.find(map.get(email));
+        for(int i = 0; i < n; i++) {
+            mergedMail.add(new ArrayList<>());
+        }
 
-    mergedMail.get(index).add(email);
-}
+        for(String email : map.keySet()) {
 
+            int index = dsu.find(map.get(email));
 
-   List<List<String>> ans = new ArrayList<>();
+            mergedMail.get(index).add(email);
+        }
 
-for(int i = 0; i < n; i++) {
+        List<List<String>> ans = new ArrayList<>();
 
-    if(mergedMail.get(i).size() == 0) {
-        continue;
-    }
+        for(int i = 0; i < n; i++) {
 
-    Collections.sort(mergedMail.get(i));
+            if(mergedMail.get(i).size() == 0) {
+                continue;
+            }
 
-    List<String> temp = new ArrayList<>();
+            Collections.sort(mergedMail.get(i));
 
-    String name = accounts.get(i).get(0);
+            List<String> temp = new ArrayList<>();
 
-    temp.add(name);
-    temp.addAll(mergedMail.get(i));
+            String name = accounts.get(i).get(0);
 
-    ans.add(temp);
-}
+            temp.add(name);
+            temp.addAll(mergedMail.get(i));
 
+            ans.add(temp);
+        }
 
-
-
-
-
-
-       return ans;
-        
+        return ans;
     }
 }
