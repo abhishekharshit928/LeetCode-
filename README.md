@@ -52,6 +52,7 @@ leetCodeQuestions
 | [0787-cheapest-flights-within-k-stops](https://github.com/abhishekharshit928/LeetCode-/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/abhishekharshit928/LeetCode-/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0827-making-a-large-island](https://github.com/abhishekharshit928/LeetCode-/tree/main/0827-making-a-large-island/) | Hard |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/abhishekharshit928/LeetCode-/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1020-number-of-enclaves](https://github.com/abhishekharshit928/LeetCode-/tree/main/1020-number-of-enclaves/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/abhishekharshit928/LeetCode-/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/abhishekharshit928/LeetCode-/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
@@ -139,6 +140,7 @@ leetCodeQuestions
 | [0127-word-ladder](https://github.com/abhishekharshit928/LeetCode-/tree/main/0127-word-ladder/) | Hard |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/abhishekharshit928/LeetCode-/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0721-accounts-merge](https://github.com/abhishekharshit928/LeetCode-/tree/main/0721-accounts-merge/) | Medium |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/abhishekharshit928/LeetCode-/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -200,6 +202,7 @@ leetCodeQuestions
 | [0778-swim-in-rising-water](https://github.com/abhishekharshit928/LeetCode-/tree/main/0778-swim-in-rising-water/) | Hard |
 | [0785-is-graph-bipartite](https://github.com/abhishekharshit928/LeetCode-/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0827-making-a-large-island](https://github.com/abhishekharshit928/LeetCode-/tree/main/0827-making-a-large-island/) | Hard |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/abhishekharshit928/LeetCode-/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1020-number-of-enclaves](https://github.com/abhishekharshit928/LeetCode-/tree/main/1020-number-of-enclaves/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/abhishekharshit928/LeetCode-/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1631-path-with-minimum-effort](https://github.com/abhishekharshit928/LeetCode-/tree/main/1631-path-with-minimum-effort/) | Medium |
@@ -225,6 +228,7 @@ leetCodeQuestions
 | [0785-is-graph-bipartite](https://github.com/abhishekharshit928/LeetCode-/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/abhishekharshit928/LeetCode-/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/abhishekharshit928/LeetCode-/tree/main/0802-find-eventual-safe-states/) | Medium |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/abhishekharshit928/LeetCode-/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/abhishekharshit928/LeetCode-/tree/main/1319-number-of-operations-to-make-network-connected/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/abhishekharshit928/LeetCode-/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/abhishekharshit928/LeetCode-/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
@@ -236,6 +240,7 @@ leetCodeQuestions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0785-is-graph-bipartite](https://github.com/abhishekharshit928/LeetCode-/tree/main/0785-is-graph-bipartite/) | Medium |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/abhishekharshit928/LeetCode-/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
